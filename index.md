@@ -2,10 +2,13 @@
 layout: default
 ---
 
+- [Day 02: Data Science, Git/Github, Python Basics, Python for Graphs and Tables](https://github.com/bbest/ucsb-network-data-science-2016/blob/gh-pages/day02b_python.ipynb)
+
 # Github Directory for UCSB Network Data Science Boot Camp ({{ site.current_term }})
 
 {% include students.html %}
 
+<br>
 <br>
 <br>
 <br>

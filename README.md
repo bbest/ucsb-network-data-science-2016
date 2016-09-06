@@ -17,9 +17,6 @@ Optional in brackets:
 
 - git vs github
 - Github Features
-  - technical convo: commits, pull requests, line # links
-  - rendered & diff formats: md, csv, geojson
-  - project mgt: linking b/n issues, milestones & commits
 - Exercises:
   - setup Github account
   - Exercise for git: clone, add (json for class directory), commit, push, pull request
