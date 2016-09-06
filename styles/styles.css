@@ -1,0 +1,4 @@
+/* make octicons light gray in students.html */
+.vcard-details .octicon {
+    color: #999;
+}
